@@ -9,6 +9,25 @@ dubioase, multe din ele nu se folosesc, dar e bine sa stii de ele ca exista.
 
 In principiu ca deja stii sa programezi si ai proiecte relevante, cel mai probabil nu o sa fie la fel de multa presiune pe tine sa stii tot, dar tot trebuie sa arati ca stii ceva din c++ si ca vrei sa inveti.
 
+## Compilare 
+
+Descarca mingw de aici
+https://sourceforge.net/projects/mingw/
+
+Instaleaza-l si dupa adauga-l in path
+
+Pentru a compila si rula:
+```
+g++ <nume_fisier>
+./a
+```
+
+Exemplu:
+```
+./"1. basic_pointers.cpp"
+./a
+```
+
 ## De invatat
 - Memory management
   - Pointeri
